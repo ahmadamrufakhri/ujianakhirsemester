@@ -23,12 +23,3 @@ int main (){
 
 }
 
-void nama(string name){
-    cout<<name;
-    return 0;
-}
-
-void NIM(int a){
-    cout<<a;
-    return 0;
-}
