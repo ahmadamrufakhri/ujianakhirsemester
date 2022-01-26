@@ -19,4 +19,16 @@ int main (){
 	cout<<"Nama    : "<<nama<<endl;
 	cout<<"NIM     : "<<nim<<endl;
 
+    
+
+}
+
+void nama(string name){
+    cout<<name;
+    return 0;
+}
+
+void NIM(int a){
+    cout<<a;
+    return 0;
 }
